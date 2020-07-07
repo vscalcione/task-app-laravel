@@ -1,3 +1,14 @@
+## task-app-laravel
+This is my first app in laravel, made with the LARAVEL CLI with the command
+```bash
+$ laravel new ${applicationName}
+```
+In first time, you type this command in the shell for the installation of all dependencies.
+```bash
+$ npm install
+```
+For the managment of all dependencies, Laravel use NPM, like Node.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
